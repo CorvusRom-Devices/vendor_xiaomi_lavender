@@ -1810,6 +1810,7 @@ PRODUCT_PACKAGES += \
     uceShimService \
     dpmserviceapp \
     ims \
+    datastatusnotification \
     qcrilmsgtunnel \
     WfdCommon \
     manifest_android.hardware.drm@1.2-service.widevine \
